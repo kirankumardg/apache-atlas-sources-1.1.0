@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="atlas-authorization" />
+        <module name="atlas-buildtools" />
+        <module name="atlas-client-common" />
+        <module name="atlas-client-v1" />
+        <module name="atlas-client-v2" />
+        <module name="atlas-common" />
+        <module name="atlas-dashboardv2" />
+        <module name="atlas-distro" />
+        <module name="atlas-docs" />
+        <module name="atlas-graphdb-api" />
+        <module name="atlas-graphdb-common" />
+        <module name="atlas-graphdb-janus" />
+        <module name="atlas-hbase-client-shaded" />
+        <module name="atlas-hbase-server-shaded" />
+        <module name="atlas-intg" />
+        <module name="atlas-notification" />
+        <module name="atlas-plugin-classloader" />
+        <module name="atlas-repository" />
+        <module name="atlas-server-api" />
+        <module name="atlas-testtools" />
+        <module name="atlas-webapp" />
+        <module name="falcon-bridge" />
+        <module name="falcon-bridge-shim" />
+        <module name="hbase-bridge" />
+        <module name="hbase-bridge-shim" />
+        <module name="hdfs-model" />
+        <module name="hive-bridge" />
+        <module name="hive-bridge-shim" />
+        <module name="kafka-bridge" />
+        <module name="sqoop-bridge" />
+        <module name="sqoop-bridge-shim" />
+        <module name="storm-bridge" />
+        <module name="storm-bridge-shim" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
